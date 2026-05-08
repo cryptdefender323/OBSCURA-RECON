@@ -4,9 +4,9 @@ Advanced web reconnaissance tool with multi-round discovery, CVE correlation, an
 
 Built this because I got tired of manually filtering through hundreds of false positives from other scanners. Every hit here is double-checked before it shows up in your report.
 
-[OBSCURA Banner](assets/Tangkapan Layar 2026-05-08 pukul 21.06.38.png)
+![OBSCURA Banner](assets/banner.png)
 
-[OBSCURA Usage](assets/Tangkapan Layar 2026-05-08 pukul 21.07.20.png)
+![OBSCURA Usage](assets/usage.png)
 
 ---
 
